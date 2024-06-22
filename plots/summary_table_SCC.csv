@@ -1,0 +1,14 @@
+SCC,Categoria,Código da Categoria,Frequência
+no,Normal_Weight,0,257
+no,Overweight_Level_I,1,253
+no,Overweight_Level_II,2,286
+no,Obesity_Type_I,3,349
+no,Insufficient_Weight,4,250
+no,Obesity_Type_II,5,296
+no,Obesity_Type_III,6,324
+yes,Normal_Weight,0,30
+yes,Overweight_Level_II,1,4
+yes,Obesity_Type_II,2,1
+yes,Insufficient_Weight,3,22
+yes,Overweight_Level_I,4,37
+yes,Obesity_Type_I,5,2

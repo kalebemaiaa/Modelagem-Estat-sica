@@ -1,0 +1,22 @@
+CH2O,Categoria,Código da Categoria,Frequência
+2.0,Normal_Weight,0,164
+2.0,Overweight_Level_I,1,154
+2.0,Overweight_Level_II,2,186
+2.0,Obesity_Type_I,3,173
+2.0,Obesity_Type_II,4,177
+2.0,Insufficient_Weight,5,142
+2.0,Obesity_Type_III,6,114
+3.0,Normal_Weight,0,40
+3.0,Obesity_Type_I,1,110
+3.0,Overweight_Level_I,2,76
+3.0,Overweight_Level_II,3,57
+3.0,Insufficient_Weight,4,46
+3.0,Obesity_Type_II,5,38
+3.0,Obesity_Type_III,6,149
+1.0,Normal_Weight,0,83
+1.0,Overweight_Level_II,1,47
+1.0,Obesity_Type_II,2,82
+1.0,Insufficient_Weight,3,84
+1.0,Overweight_Level_I,4,60
+1.0,Obesity_Type_I,5,68
+1.0,Obesity_Type_III,6,61

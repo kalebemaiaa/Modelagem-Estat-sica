@@ -1,0 +1,24 @@
+NCP,Categoria,Código da Categoria,Frequência
+3.0,Normal_Weight,0,206
+3.0,Overweight_Level_I,1,158
+3.0,Obesity_Type_I,2,225
+3.0,Overweight_Level_II,3,184
+3.0,Obesity_Type_II,4,228
+3.0,Insufficient_Weight,5,145
+3.0,Obesity_Type_III,6,324
+1.0,Overweight_Level_II,0,48
+1.0,Normal_Weight,1,52
+1.0,Obesity_Type_I,2,79
+1.0,Overweight_Level_I,3,76
+1.0,Insufficient_Weight,4,37
+1.0,Obesity_Type_II,5,24
+4.0,Overweight_Level_II,0,6
+4.0,Normal_Weight,1,29
+4.0,Overweight_Level_I,2,33
+4.0,Insufficient_Weight,3,72
+4.0,Obesity_Type_II,4,9
+2.0,Insufficient_Weight,0,18
+2.0,Overweight_Level_I,1,23
+2.0,Overweight_Level_II,2,52
+2.0,Obesity_Type_I,3,47
+2.0,Obesity_Type_II,4,36

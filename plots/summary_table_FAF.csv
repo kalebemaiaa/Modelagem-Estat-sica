@@ -1,0 +1,27 @@
+FAF,Categoria,Código da Categoria,Frequência
+0.0,Normal_Weight,0,80
+0.0,Overweight_Level_II,1,97
+0.0,Obesity_Type_I,2,131
+0.0,Overweight_Level_I,3,84
+0.0,Obesity_Type_II,4,69
+0.0,Insufficient_Weight,5,72
+0.0,Obesity_Type_III,6,187
+3.0,Normal_Weight,0,41
+3.0,Overweight_Level_II,1,18
+3.0,Overweight_Level_I,2,24
+3.0,Obesity_Type_I,3,25
+3.0,Insufficient_Weight,4,11
+2.0,Normal_Weight,0,69
+2.0,Overweight_Level_I,1,56
+2.0,Obesity_Type_I,2,72
+2.0,Overweight_Level_II,3,50
+2.0,Insufficient_Weight,4,117
+2.0,Obesity_Type_II,5,63
+2.0,Obesity_Type_III,6,69
+1.0,Normal_Weight,0,97
+1.0,Overweight_Level_II,1,125
+1.0,Overweight_Level_I,2,126
+1.0,Insufficient_Weight,3,72
+1.0,Obesity_Type_I,4,123
+1.0,Obesity_Type_II,5,165
+1.0,Obesity_Type_III,6,68

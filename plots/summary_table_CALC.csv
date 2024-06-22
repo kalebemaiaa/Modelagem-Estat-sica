@@ -1,0 +1,22 @@
+CALC,Categoria,Código da Categoria,Frequência
+no,Normal_Weight,0,107
+no,Obesity_Type_I,1,165
+no,Overweight_Level_II,2,128
+no,Overweight_Level_I,3,50
+no,Insufficient_Weight,4,117
+no,Obesity_Type_II,5,71
+no,Obesity_Type_III,6,1
+Sometimes,Normal_Weight,0,161
+Sometimes,Overweight_Level_II,1,143
+Sometimes,Obesity_Type_I,2,172
+Sometimes,Overweight_Level_I,3,224
+Sometimes,Insufficient_Weight,4,154
+Sometimes,Obesity_Type_II,5,224
+Sometimes,Obesity_Type_III,6,323
+Frequently,Normal_Weight,0,18
+Frequently,Overweight_Level_I,1,16
+Frequently,Obesity_Type_I,2,14
+Frequently,Overweight_Level_II,3,19
+Frequently,Obesity_Type_II,4,2
+Frequently,Insufficient_Weight,5,1
+Always,Normal_Weight,0,1

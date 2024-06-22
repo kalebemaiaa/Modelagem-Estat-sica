@@ -1,0 +1,15 @@
+FAVC,Categoria,Código da Categoria,Frequência
+no,Normal_Weight,0,79
+no,Overweight_Level_I,1,22
+no,Overweight_Level_II,2,74
+no,Insufficient_Weight,3,51
+no,Obesity_Type_II,4,7
+no,Obesity_Type_I,5,11
+no,Obesity_Type_III,6,1
+yes,Normal_Weight,0,208
+yes,Obesity_Type_I,1,340
+yes,Overweight_Level_II,2,216
+yes,Overweight_Level_I,3,268
+yes,Insufficient_Weight,4,221
+yes,Obesity_Type_II,5,290
+yes,Obesity_Type_III,6,323

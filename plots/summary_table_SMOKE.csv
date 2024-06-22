@@ -1,0 +1,15 @@
+SMOKE,Categoria,Código da Categoria,Frequência
+no,Normal_Weight,0,274
+no,Overweight_Level_I,1,287
+no,Overweight_Level_II,2,285
+no,Obesity_Type_I,3,345
+no,Insufficient_Weight,4,271
+no,Obesity_Type_II,5,282
+no,Obesity_Type_III,6,323
+yes,Normal_Weight,0,13
+yes,Overweight_Level_II,1,5
+yes,Obesity_Type_I,2,6
+yes,Obesity_Type_II,3,15
+yes,Overweight_Level_I,4,3
+yes,Obesity_Type_III,5,1
+yes,Insufficient_Weight,6,1

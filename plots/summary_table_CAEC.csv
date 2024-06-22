@@ -1,0 +1,27 @@
+CAEC,Categoria,Código da Categoria,Frequência
+Sometimes,Normal_Weight,0,159
+Sometimes,Overweight_Level_I,1,236
+Sometimes,Overweight_Level_II,2,270
+Sometimes,Obesity_Type_I,3,338
+Sometimes,Insufficient_Weight,4,146
+Sometimes,Obesity_Type_II,5,293
+Sometimes,Obesity_Type_III,6,323
+Frequently,Obesity_Type_I,0,6
+Frequently,Overweight_Level_II,1,16
+Frequently,Normal_Weight,2,83
+Frequently,Overweight_Level_I,3,14
+Frequently,Insufficient_Weight,4,121
+Frequently,Obesity_Type_II,5,1
+Frequently,Obesity_Type_III,6,1
+Always,Normal_Weight,0,35
+Always,Overweight_Level_II,1,3
+Always,Obesity_Type_I,2,6
+Always,Obesity_Type_II,3,2
+Always,Overweight_Level_I,4,5
+Always,Insufficient_Weight,5,2
+no,Normal_Weight,0,10
+no,Obesity_Type_II,1,1
+no,Insufficient_Weight,2,3
+no,Overweight_Level_I,3,35
+no,Obesity_Type_I,4,1
+no,Overweight_Level_II,5,1

@@ -1,0 +1,15 @@
+Gender,Categoria,Código da Categoria,Frequência
+Female,Normal_Weight,0,141
+Female,Overweight_Level_II,1,103
+Female,Obesity_Type_I,2,156
+Female,Overweight_Level_I,3,145
+Female,Insufficient_Weight,4,173
+Female,Obesity_Type_II,5,2
+Female,Obesity_Type_III,6,323
+Male,Normal_Weight,0,146
+Male,Overweight_Level_I,1,145
+Male,Overweight_Level_II,2,187
+Male,Obesity_Type_I,3,195
+Male,Insufficient_Weight,4,99
+Male,Obesity_Type_II,5,295
+Male,Obesity_Type_III,6,1
